@@ -1,0 +1,7 @@
+C:\Users\home\source\repos\JsonPract\JsonPract\bin\Debug\JsonPract.exe.config
+C:\Users\home\source\repos\JsonPract\JsonPract\bin\Debug\JsonPract.exe
+C:\Users\home\source\repos\JsonPract\JsonPract\bin\Debug\JsonPract.pdb
+C:\Users\home\source\repos\JsonPract\JsonPract\obj\Debug\JsonPract.csprojAssemblyReference.cache
+C:\Users\home\source\repos\JsonPract\JsonPract\obj\Debug\JsonPract.csproj.CoreCompileInputs.cache
+C:\Users\home\source\repos\JsonPract\JsonPract\obj\Debug\JsonPract.exe
+C:\Users\home\source\repos\JsonPract\JsonPract\obj\Debug\JsonPract.pdb
